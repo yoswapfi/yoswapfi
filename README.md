@@ -15,6 +15,7 @@ Our platform is built to be versatile and robust, offering users the flexibility
 ## Smart Contract Addresses
 YoSwap utilizes a series of smart contracts to manage various functionalities within the platform. These contracts are consistent across all supported chains. Below are the contract addresses:
 
+- **V3Factory**: `0xb07cb8774F65c288fbceE93b9A35568F36CD4c1b`
 - **UniswapInterfaceMulticall**: `0x851275D47890Bf5C71875cc1a34b7B25134dD1D8`
 - **Quoter**: `0xD7822047AA750dd16064993BeFcB7468F9Ac6328`
 - **NFTDescriptor**: `0xaAc1dAB9f73FB8a5854150d02e8479cF06E43Ff9`
